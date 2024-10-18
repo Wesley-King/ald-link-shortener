@@ -1,1 +1,0 @@
-﻿# ald-link-shortener
